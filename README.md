@@ -28,6 +28,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me encanta aprende
 
 ## 📚 Actualmente aprendiendo  
 ✔️ Java
+<br>
 ✔️ JavaScript 
 
 ---
