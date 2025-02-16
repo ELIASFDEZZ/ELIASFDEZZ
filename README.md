@@ -13,10 +13,10 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me encanta aprende
 
 ---
 
-## 🔧 Tecnologías y herramientas  
-🌐 **Front-end**: HTML, CSS, JavaScript
-🖥 **Back-end**: Java
-🛢 **Bases de datos**: MySQL 
+## 🔧 Tecnologías y herramientas  <br>
+🌐 **Front-end**: HTML, CSS, JavaScript <br>
+🖥 **Back-end**: Java <br>
+🛢 **Bases de datos**: MySQL <br>
 🛠 **Otros**: Git
 
 ---
@@ -27,22 +27,21 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me encanta aprende
 ---
 
 ## 📚 Actualmente aprendiendo  
-✔️ Java
-<br>
+✔️ Java <br>
 ✔️ JavaScript 
 
 ---
 
 ## 📫 Contacto  
-📧 **Email**: eliasfernandezmu@gmail.com 
-🌐 **Portfolio**:  
-🐦 **Twitter/X**: [@ELIAS_FDZZ](https://x.com/ELIAS_FDZZ)  
-💼 **LinkedIn**: 
+📧 **Email**: eliasfernandezmu@gmail.com <br>
+🌐 **Portfolio**:  <br>
+🐦 **Twitter/X**: [@ELIAS_FDZZ](https://x.com/ELIAS_FDZZ) <br> 
+💼 **LinkedIn**: <br>
 
 ---
 
 ### ⚡ Curiosidades sobre mí  
-- Apasionado de la tecnología.  
+- Apasionado de la tecnología. <br>  
 - Siempre buscando aprender algo nuevo.  
 
 ---
